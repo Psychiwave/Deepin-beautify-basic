@@ -4,18 +4,16 @@
 
 ## 字体
 
-   * 先打开权限`chmod -R 777 /usr/share/icons/`然后进入 `cd /usr/share/icons/` 右键"在文件夹中打开"然后把`fonts`里的文件都拖过去(包含windows字体)，最后把权限改回来`chmod -R 755 /usr/share/icons/`然后进入 `cd /usr/share/icons/`
+   * 先打开权限`chmod -R 777 /usr/share/icons/`然后进入 `cd /usr/share/icons/` 右键"在文件夹中打开",把`fonts`里的文件都拖过去(包含windows字体)，最后把权限改回来`chmod -R 755 /usr/share/icons/`。
 ## 图标
-  * 同上，把路径改为`icons` 
-    ## 窗口主题
+  * 同上，把路径改为`icons`
+  * **mac图标下载**：[la-capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) 
+## 窗口主题
   * 同上，把路径改为`themes`
-    ## 桌面壁纸（&自动更换）
+  * **mac窗口主题下载**：[imac-gtk-themes](https://gitlab.com/1314/imac-gtk-themes)
+## 桌面壁纸（&自动更换）
   * 在`~/.config/autostart`下将`changewallpaper.desktop`文件放入
     参考：[撸了一段自动更换壁纸的脚本](https://bbs.deepin.org/forum.php?mod=viewthread&tid=38940)
-
-## 桌面图标更改
-
-* **mac图标**：https://github.com/keeferrourke/la-capitaine-icon-theme
 
 ## 主题音效更改
 
@@ -38,10 +36,19 @@
 
 ## 插件安装   
 
- * **conky桌面插件**
+ * conky桌面插件
    * **.conky**：解压`shuxun2.tar.gz`，将`.shuxun2`放入`/home/.conky/`中（Ctrl+H 显示隐藏文件）
 
    * **conky manager**：deepin商店搜索下载，选中`.shuxun`,然后在设置里设置开机启动
+ * 百度网盘命令行下载工具—Baidu-PCS
+   * [Baidu-PCS](https://github.com/iikira/BaiduPCS-Go)
+ * Wudao词典（命令行查词工具）
+   * [有道词典的命令行版本，支持英汉互查和在线查询。](https://github.com/ChestnutHeng/Wudao-dict)
+ * zsh(oh-my-zsh)&.zshrc备份以及plugin插件
+   * 参考：[oh-my-zsh,让你的终端从未这么爽过](https://www.jianshu.com/p/d194d29e488c)
+ * you-get视频下载插件
+   * `pip3 install you-get`
+
 
 ## 音频优化
 
