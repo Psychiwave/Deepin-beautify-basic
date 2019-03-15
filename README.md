@@ -1,4 +1,4 @@
-*教程请参考：*
+效果图：![截图](https://github.com/Psychiwave/Deepin-beautify-basic/blob/master/screenshot.png)
 
 在这基础上由于个人需求定制了一套自己的配置，具体的教程搜索引擎上都有，但是为了方便自己检索于是有了本条记录：
 
