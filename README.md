@@ -56,3 +56,5 @@
 
 详细教程：[简单一步 大幅提升linux音质 耳返设置方式](https://www.bilibili.com/video/av43862110)
 
+## 启动器
+Albert：[官网](https://albertlauncher.github.io/docs/installing/),[下载](https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert)
